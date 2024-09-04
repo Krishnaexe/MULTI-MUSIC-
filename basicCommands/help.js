@@ -57,11 +57,11 @@ module.exports = {
         }
       )
       .setThumbnail(botUser.avatarURL({ dynamic: true, format: 'png', size: 1024 }))
-      .setImage(`https://cdn.discordapp.com/attachments/1113800537402527903/1236803979996958740/11.png?ex=6641e8b7&is=66409737&hm=96f69ba8bcde4ca44bf8713e22001e0bafad0335cfd1f57c439a34b4762f0e03&`);
+      .setImage(`https://cdn.discordapp.com/attachments/1278327643854340168/1280913357561532416/e248d76b9468b84ed63e5811e0b5180a.gif?ex=66d9cf06&is=66d87d86&hm=2a181da8d663bfe8dee81b26951605bbf934da83fc7ff831a2a8c4e0d489b56c&`);
 
     const button1 = new ButtonBuilder()
-      .setLabel('YouTube')
-      .setURL('https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A')
+      .setLabel('YOUTUBE')
+      .setURL('https://discord.com/invite/XquTbyFc')
       .setStyle(ButtonStyle.Link);
 
     const button2 = new ButtonBuilder()
@@ -70,8 +70,8 @@ module.exports = {
       .setStyle(ButtonStyle.Link);
 
     const button3 = new ButtonBuilder()
-      .setLabel('Code')
-      .setURL('https://github.com/GlaceYT')
+      .setLabel('Premium')
+      .setURL('https://discord.com/invite/XquTbyFc')
       .setStyle(ButtonStyle.Link);
       
     const row = new ActionRowBuilder()
