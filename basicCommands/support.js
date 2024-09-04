@@ -5,9 +5,6 @@ module.exports = {
     description: 'support server of this Bot',
     execute(message, args) {
         const supportServerLink = "https://discord.gg/xQF9f9yUEM";
-      const githubLink = "https://github.com/GlaceYT";
-      const replitLink = "https://replit.com/@GlaceYT";
-      const youtubeLink = "https://www.youtube.com/@GlaceYT";
         const embed = new EmbedBuilder()
             .setColor('#b300ff')
             .setAuthor({
