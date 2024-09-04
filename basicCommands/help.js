@@ -13,7 +13,7 @@ module.exports = {
       .setColor('#2b71ec')
       .setAuthor({
         name: 'Im here to Help!',
-        iconURL: 'https://cdn.discordapp.com/attachments/1278327643854340168/1280913357561532416/e248d76b9468b84ed63e5811e0b5180a.gif?ex=66d9cf06&is=66d87d86&hm=2a181da8d663bfe8dee81b26951605bbf934da83fc7ff831a2a8c4e0d489b56c&c868feb955&', 
+        iconURL: 'https://cdn.discordapp.com/attachments/1278327643854340168/1280913357561532416/e248d76b9468b84ed63e5811e0b5180a.gif?ex=66d9cf06&is=66d87d86&hm=2a181da8d663bfe8dee81b26951605bbf934da83fc7ff831a2a8c4e0d489b56c&', 
         url: 'https://discord.com/invite/XquTbyFc'
     })
      
